@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>intel CRF test</title>
+</head>
+<body>
+<p>please input the text to process</p>
+
+<form action='/crf/' method='get'>
+	str:<input type='text' name='str'> <br>
+	    <input type='submit' value='分词'>
+</form>
+</body>
+</html>
+
