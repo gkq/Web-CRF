@@ -9,6 +9,7 @@ This project is based on Django version 1.10. Other versions haven't been yet te
 ### startup django and server
 
   bin/runDjango.sh &
+
   bin/runServer.sh &
 ```
 
@@ -27,6 +28,6 @@ sbt package
 
  If you encounter bugs, feel free to submit an issue or pull request.
  Also you can mail to:
+ * gukunqi@gmail.com
  * qian.huang@intel.com
  * hao.cheng@intel.com
- * gukunqi@gmail.com
